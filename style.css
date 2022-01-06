@@ -1,0 +1,164 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto ;
+}
+
+.flex-container{
+    display: flex;
+    
+}
+.top-text{
+ font-size: 69px;
+ font-weight: 1000;
+ font-family: Yeseva One;
+}
+
+.width-control{
+        width: 100%;
+        margin: 5% 0% 2% 10%;         
+} 
+
+.width-control img{
+    width: 76%;
+    margin-top: 10%;   
+}
+
+.higligted-text{
+    color: rgba(86, 118, 224, 0.774);
+    
+}
+.vlog-customize{
+    margin-bottom: 5%;
+    color:  #3E3E3E;
+    font-size: 20px;
+}
+#top-border-slice{
+    padding-left: 2%;
+    border-left: 5px solid #90A8EE;
+}
+
+.customize-button{
+    text-decoration: none;
+    background-color: rgba(86, 86, 224, 0.884);
+    color: cornsilk;
+    padding: 2%;
+    border-radius: 6px;
+       
+}
+
+
+/* second parts */
+
+.second-head-text{
+    text-align: center;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.mission-parts{
+    width: 90%;
+    margin: 0% 10%;
+       
+}
+.mission-parts img{
+    width: 65%;
+}
+#mission-part{
+    background-color: rgba(79, 157, 166, 0.1);
+    padding: 3%;
+    border-radius: 28px;
+    margin-right: 2%;
+}
+#vision-part{
+    background-color: rgb(255, 89, 89, 0.1);
+    padding: 3%;
+    border-radius: 28px;
+    margin-right: 2%;
+
+}
+#goal-part{
+
+    background-color:  #FFF4D6;
+
+    padding: 3%;
+    border-radius: 28px;
+    margin-right: 8%;
+}
+
+.mission-text-handler{
+    font-size: 29px;
+    font-weight: 600;
+}
+
+    /********** vlogs **********/
+
+.coding-width-control h1{
+    font-size: 45px;
+    line-height: 54px;
+    font-weight: 700;
+}
+.coding-width-control p{
+    font-size: 16px;
+}
+.coding-width-control{
+    width: 90%;
+    margin-top: 6%; 
+    padding: 2%;  
+}
+
+.coding-width-control img{
+    width: 60%;
+    margin-left: 22%;
+    }  
+
+    .meeting-width-control{
+        width:100%;
+        padding: 6%;
+        margin-left: 5%;
+    }
+    .meeting-width-control img{
+        width: 90%;
+    }    
+    
+
+    .meeting-width-control h1{
+        font-size: 40px;
+        line-height: 54px;
+        font-weight: 700;
+    }
+    .meeting-width-control p{
+        font-size: 16px;
+    }
+
+
+.club-customize{
+  
+   background-image: linear-gradient(315deg, #d8e2e4c9 0%, #7382e6 74%);
+   
+   margin: 5%;
+   border-radius: 30px;
+}
+.form-info{
+    border-radius: 30px;
+    padding: 0.7%;
+
+}
+
+
+
+        /* footer */
+footer{
+     text-align: center;
+     background-color:  #0B0D17;
+     position: absolute;
+     width: 100%;
+}
+footer h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-family: 'Lobster';  
+}
+footer p{
+    color:  #D9DBE1;
+    font-size: 15px;
+}
